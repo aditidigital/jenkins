@@ -1,2 +1,2 @@
-FROM hshar/webapp
-ADD ./devopsIQ /var/www/html/devopsIQ
+FROM aditidevops5/apache
+ADD ./aditidigital /var/www/html/devopsIQ
